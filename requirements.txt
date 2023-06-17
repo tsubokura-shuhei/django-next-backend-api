@@ -1,0 +1,12 @@
+Django~=3.1.7
+django-cors-headers~=3.4.0
+djangorestframework~=3.11.1
+Pillow==8.1.2
+# 追加
+dj-database-url
+dj-static
+python-decouple
+django-environ
+gunicorn
+psycopg2-binary
+whitenoise
